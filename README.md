@@ -1,3 +1,7 @@
+# Summary
+This is the backend server for a crowd sourced travel planner application. The frontend user interface code is located at: 
+https://github.com/angularOcean/travelplanner-ui
+
 # Developer Setup
 Create a `.env` file in the root directory following the template in `.env.template`. Replace `<user>` and `<password>` in the URI with your username and password which you should have if you are authorized to contribute to this project.
 
